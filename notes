@@ -12,5 +12,5 @@ once we have decided, we can make some statistics.
 
 [price, adjusted_price, minimum_nights, maximum_nights, date, number_of_reviews, location variable like lingitute, ]
  
-Lots of entities are strings not numerical. we need to figure how to deal with that.
+4. Lots of entities are strings not numerical. we need to figure how to deal with that.
 
