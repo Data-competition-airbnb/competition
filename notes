@@ -1,0 +1,16 @@
+Meeting Oct 23, 2019
+
+1. I wrote a code chunk; it's better if we name our dataset the same way, to uniform things. we can put our code on
+that chunk.  
+
+2. for each dataset, the first column 'id' stands for each dwelling unit, it could be the key to combine all the dataset.
+
+3. for step I, we are asked to show descriptive statistics for relevant and important variables. 
+ 
+Here is a list of all variables from 5 dataset that I think are important. please add more if you feel something are left out.
+once we have decided, we can make some statistics.
+
+[price, adjusted_price, minimum_nights, maximum_nights, date, number_of_reviews, location variable like lingitute, ]
+ 
+Lots of entities are strings not numerical. we need to figure how to deal with that.
+
