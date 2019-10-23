@@ -11,6 +11,12 @@ rm(list=ls()); gc(); graphics.off()
 # import all packages we may use
 library(data.table)
 library(tidyverse)
+# read in dataset
+calendar = fread("...")
+lst_details = fread("...")
+reviews_details = fread("...")
+reviews_summary = fread("...")
+lst_summary = fread("...")
 ```
 
 # Step I: Descriptive Statistics
