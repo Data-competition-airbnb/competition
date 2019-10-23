@@ -1,0 +1,41 @@
+---
+title: "data competiton"
+author: "Xuanbo Mao"
+date: "10/23/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+# clean the environment
+rm(list=ls()); gc(); graphics.off()
+# import all packages we may use
+library(data.table)
+library(tidyverse)
+```
+
+# Step I: Descriptive Statistics
+
+```{r}
+
+```
+
+# Step II: Visualization
+
+```{r}
+
+```
+
+# Step III: Data Mining
+
+## Multivariate Regression Analysis
+```{r}
+
+```
+
+## Machine Learning
+```{r}
+
+```
+
+
+# Step IV: Insight and Recommendation
