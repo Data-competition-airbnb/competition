@@ -11,7 +11,7 @@ rm(list=ls()); gc(); graphics.off()
 # import all packages we may use
 library(data.table)
 library(tidyverse)
-# read in dataset
+# read in dataset   ###### we can use either dataframe or datatable, but make sure we uniform the variable name
 calendar = fread("...")
 lst_details = fread("...")
 reviews_details = fread("...")
